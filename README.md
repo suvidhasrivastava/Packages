@@ -16,7 +16,7 @@ measured by the greatest distance.
 
 ## How to install this package:
 ```
->> pip install TOPSIS-Suvidha-102103019
+>> pip install TOPSIS-SuvidhaSrivastava-102103019
 ```
 
 
